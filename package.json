@@ -1,0 +1,16 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.7.0",
+    "cheerio": "^0.22.0",
+    "restify": "^4.3.0"
+  }
+}

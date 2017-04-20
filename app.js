@@ -1,6 +1,6 @@
 //給連結意願低 給圖
 //https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/1f85c73e-d39f-4719-bda5-889f4e4afd5f?subscription-key=a755d82f005e4d54bf63a14565213823&timezoneOffset=0.0&verbose=true&q=我要聽周杰倫的安靜
-const { API_KEY } = require('./config');
+//const { API_KEY } = require('./config');
 const API_URL = `https://westus.api.cognitive.microsoft.com/luis/v2.0/apps/1f85c73e-d39f-4719-bda5-889f4e4afd5f?subscription-key=a755d82f005e4d54bf63a14565213823&timezoneOffset=0.0&verbose=true&q=`;
 const YOUTUBE_API = `https://www.youtube.com/results?search_query=`;
 var restify = require('restify');
