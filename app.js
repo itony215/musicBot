@@ -64,7 +64,7 @@ bot.dialog('/',
             console.log('body2:', body2);
             const $ = cheerio.load(body2);
             const href = $('.yt-lockup-title > a').attr('href');
-            const videoHref = `https://www.youtube.com${href}`;
+            const videoHref = `https://gaming.youtube.com${href}`;
             console.log('href', videoHref);
             session.send(`[${videoHref}](${videoHref})`);
             //console.log('error2:', error2); // Print the error if one occurred
