@@ -105,7 +105,7 @@ const YOUTUBE_API = `https://www.youtube.com/results?search_query=`;
 var recognizer = new builder.LuisRecognizer(model);
 var intents = new builder.IntentDialog({ recognizers: [recognizer] });
 bot.dialog('/', function (session) {
-  session.send("想聽什麼歌呢？ 或者說說現在的心情，推薦幾首好歌給您。");
+  session.send("分享好音樂，想點什麼歌呢？ 或者說說現在的心情，推薦幾首好歌給您。");
   session.beginDialog('/moodMusic');
 });
 
@@ -145,7 +145,7 @@ intents.matches('點歌', [
         session.send(msg);
         session.send(`[${videoHref}](${videoHref})`);
       });
-      session.endDialog('好喔~ "%s"的連結跟預覽圖來囉！', results.response);
+      session.send('好喔~ "%s"的連結跟預覽圖來囉！', results.response);
     } else {
       session.send("oops!");//error handling
     }
@@ -198,14 +198,14 @@ intents.matches('心情', [
         }
       });
       if (session.message.source == 'facebook') {
-        session.endDialog(msg);
+        session.send(msg);
       } else {
         msg.attachments([{
           contentType: "image/jpeg",
           contentUrl: mood.image_url
         }]);
         session.send(msg);
-        session.endDialog("%(item_url)s", mood);
+        session.send("%(item_url)s", mood);
       }
 
     } else {
