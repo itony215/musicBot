@@ -179,6 +179,7 @@ intents.matches('點歌', [
       request({ uri: youtubeUrl }, function (error, response, body) {
         const $ = cheerio.load(body);
         const href = $('.yt-lockup-title > a').attr('href');
+        const youtube_title = $('.yt-lockup-title > a').attr('title');
         const img_href = $('.yt-thumb-simple > img').attr('src');
         const videoHref = `https://www.youtube.com${href}`;
         msg = new builder.Message(session);
@@ -187,7 +188,7 @@ intents.matches('點歌', [
           contentUrl: img_href
         }]);
         session.send(msg);
-        session.send(`[${videoHref}](${videoHref})`);
+        session.send(`[${youtube_title}](${videoHref})`);
       });
       session.send('好喔~ "%s"的連結跟預覽圖來囉！', results.response);
     } else {
