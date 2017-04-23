@@ -1,62 +1,62 @@
 const kill = {
-  '自殺1': {
-    title: '自殺1',
+  '有一天': {
+    title: '有一天',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/7OAkr_Flq6A/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=7OAkr_Flq6A'
   },
-  '自殺2': {
-    title: '自殺2',
+  '解脫': {
+    title: '解脫',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/fJpj-kg3eoQ/hqdefault.jpg",
+    item_url: 'https://youtu.be/fJpj-kg3eoQ'
   },
-  '自殺3': {
-    title: '自殺3',
+  '主你永遠與我同在': {
+    title: '主你永遠與我同在',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/VOQe_vx2AZE/maxresdefault.jpg",
+    item_url: 'https://youtu.be/VOQe_vx2AZE'
   }
 };
 const cry = {
-  '哭哭1': {
-    title: '哭哭',
+  '會呼吸的痛': {
+    title: '會呼吸的痛',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/gVr_cM_d55I/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=gVr_cM_d55I'
   },
-  '哭哭2': {
-    title: '哭哭哭',
+  '給我一個理由忘記': {
+    title: '給我一個理由忘記',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/o0qU9m4StrY/maxresdefault.jpg",
+    item_url: 'https://youtu.be/F5FlN-NBGo8'
   },
-  '哭哭3': {
-    title: '哭哭哭哭',
+  '一個人也可以幸福': {
+    title: '一個人也可以幸福',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/5a-3s6f1khM/hqdefault.jpg",
+    item_url: 'https://youtu.be/5a-3s6f1khM'
   }
 };
 
 const fuck = {
-  '分手1': {
+  '分手快樂': {
     title: '分手快樂',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/lBNYpPmjH8M/hqdefault.jpg",
+    item_url: 'https://youtu.be/lBNYpPmjH8M'
   },
-  '分手2': {
+  '分手需要練習的': {
     title: '分手需要練習的',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/ze0ZRXsagXY/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=ze0ZRXsagXY'
   },
-  '分手3': {
+  '我們沒有在一起': {
     title: '我們沒有在一起',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/CfYG8Q3ZpMA/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=CfYG8Q3ZpMA'
   }
 };
 
@@ -67,57 +67,57 @@ const grace = {
     image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
     item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
-  '恩典2': {
-    title: '恩典之路2',
-    subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  '奇異恩典': {
+    title: '奇異恩典',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/TZ25P0aRikw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=67&sat=0.2&sigh=H8BfzRvOzOuIiNgg6HVMXgpRdfg",
+    item_url: 'https://www.youtube.com/watch?v=TZ25P0aRikw'
   },
-  '恩典3': {
-    title: '恩典之路3',
+  '進入祢愛裡': {
+    title: '進入祢愛裡',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
-  }
+    image_url: "https://www.testifygod.com/wp-content/uploads/2016/10/%E9%80%B2%E5%85%A5%E7%A5%A2%E6%84%9B%E8%A3%A1.jpg",
+    item_url: 'https://youtu.be/jFkDCnbn92A'
+  },
 };
 const happy = {
-  '恩典之路': {
-    title: '恩典之路',
+  'Good Time': {
+    title: 'Good Time',
     subtitle: '我的心情現在適合這首歌',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/0bjBf4BxaEE/maxresdefault.jpg",
+    item_url: 'https://youtu.be/78x2hd4R920'
   },
-  '恩典2': {
-    title: '恩典之路2',
+  'I Love You': {
+    title: 'I Love You',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/3zHmmBQu2kM/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=3zHmmBQu2kM'
   },
-  '恩典3': {
-    title: '恩典之路3',
+  '滿有能力': {
+    title: '滿有能力',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/Zq5OMCsM4p8/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=Zq5OMCsM4p8'
   }
 };
 const depressed = {
-  '恩典之路': {
-    title: '恩典之路',
+  '我也曾那樣哭過': {
+    title: '我也曾那樣哭過',
     subtitle: '我的心情現在適合這首歌',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/8JYdIxwUTg8/hqdefault.jpg",
+    item_url: 'https://youtu.be/8JYdIxwUTg8'
   },
-  '恩典2': {
-    title: '恩典之路2',
+  '進入祢愛裡': {
+    title: '進入祢愛裡',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://www.testifygod.com/wp-content/uploads/2016/10/%E9%80%B2%E5%85%A5%E7%A5%A2%E6%84%9B%E8%A3%A1.jpg",
+    item_url: 'https://youtu.be/jFkDCnbn92A'
   },
-  '恩典3': {
-    title: '恩典之路3',
+  '我不會飛': {
+    title: '我不會飛',
     subtitle: '',
-    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
-    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+    image_url: "https://i.ytimg.com/vi/jy10WKMcx0g/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=_AbSkV3C-Y8'
   }
 };
 const DATA = { '殺': kill, '開心': happy, '哭': cry, '分手': fuck, '恩典': grace, '悶':depressed };
