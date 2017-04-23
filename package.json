@@ -11,6 +11,7 @@
   "dependencies": {
     "botbuilder": "^3.7.0",
     "cheerio": "^0.22.0",
+    "request": "^2.81.0",
     "restify": "^4.3.0"
   }
 }
