@@ -2,40 +2,40 @@ const kill = {
   '自殺1': {
     title: '自殺1',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://wwe'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '自殺2': {
     title: '自殺2',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://222'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '自殺3': {
     title: '自殺3',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://22233332'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   }
 };
 const cry = {
   '哭哭1': {
     title: '哭哭',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://wwe'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '哭哭2': {
     title: '哭哭哭',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://222'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '哭哭3': {
     title: '哭哭哭哭',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://22233332'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   }
 };
 
@@ -43,25 +43,25 @@ const fuck = {
   '分手1': {
     title: '分手快樂',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://wwe'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '分手2': {
     title: '分手需要練習的',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://222'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '分手3': {
     title: '我們沒有在一起',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://22233332'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   }
 };
 
 const grace = {
-  '恩典1': {
+  '恩典之路': {
     title: '恩典之路',
     subtitle: '我的心情現在適合這首歌',
     image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
@@ -70,17 +70,57 @@ const grace = {
   '恩典2': {
     title: '恩典之路2',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://222'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
   '恩典3': {
     title: '恩典之路3',
     subtitle: '',
-    image_url: "https://en.wikipedia.org/wiki/Space_Needle.jpg",
-    item_url: 'http://22233332'
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   }
 };
-const DATA = { '殺': kill, '開心': 'happy', '哭': cry, '分手': fuck, '恩典': grace };
+const happy = {
+  '恩典之路': {
+    title: '恩典之路',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  },
+  '恩典2': {
+    title: '恩典之路2',
+    subtitle: '',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  },
+  '恩典3': {
+    title: '恩典之路3',
+    subtitle: '',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  }
+};
+const depressed = {
+  '恩典之路': {
+    title: '恩典之路',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  },
+  '恩典2': {
+    title: '恩典之路2',
+    subtitle: '',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  },
+  '恩典3': {
+    title: '恩典之路3',
+    subtitle: '',
+    image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
+    item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
+  }
+};
+const DATA = { '殺': kill, '開心': happy, '哭': cry, '分手': fuck, '恩典': grace, '悶':depressed };
 
 
 var builder = require('botbuilder');
