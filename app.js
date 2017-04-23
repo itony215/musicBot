@@ -210,6 +210,7 @@ intents.matches('心情', [
         }]);
         session.send(msg);
         session.send("%(item_url)s", mood);
+        session.send('你的心情現在適合這首歌');
       }
 
     } else {
@@ -219,4 +220,4 @@ intents.matches('心情', [
 
 ]);
 
-intents.onDefault(builder.DialogAction.send("您可以說說現在心情或者點歌唷！"));
+intents.onDefault(builder.DialogAction.send("對不起，我不太能理解您的意思，您可以再說說現在心情或者點歌唷！"));
