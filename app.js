@@ -116,11 +116,11 @@ intents.matches('點歌', [
     var task = builder.EntityRecognizer.findEntity(args.entities, '歌曲');
     var singer = builder.EntityRecognizer.findEntity(args.entities, '歌手');
     if (!task) {
-      if (singer.entity) {
-        builder.Prompts.text(session, '想聽' + singer.entity.toString() + '的什麼歌呢?');
-      } else {
+      if (!singer) {
         builder.Prompts.text(session, "什麼歌名呢?");
-      }
+      } else {
+        builder.Prompts.text(session, '想聽' + singer.entity.toString() + '的什麼歌呢?');
+      }  
     } else {
       if (!singer) {
         next({ response: task.entity });
@@ -215,4 +215,4 @@ intents.matches('心情', [
 
 ]);
 
-intents.onDefault(builder.DialogAction.send("I'm sorry. I didn't understand."));
+intents.onDefault(builder.DialogAction.send("您可以說說現在心情或者點歌唷！"));
