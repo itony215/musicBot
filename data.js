@@ -17,6 +17,18 @@ const kill = {
     image_url: "https://i.ytimg.com/vi/fJpj-kg3eoQ/hqdefault.jpg",
     item_url: 'https://youtu.be/fJpj-kg3eoQ'
   },
+  '我們愛': {
+    title: '我們愛',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/EHgKFGpRo4c/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=fUijjKO3lYU'
+  },
+  '我是不是该安静的走开': {
+    title: '我是不是该安静的走开',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/PwF5KfMz2GA/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=PwF5KfMz2GA'
+  },
   '主你永遠與我同在': {
     title: '主你永遠與我同在',
     subtitle: '',
@@ -31,17 +43,35 @@ const cry = {
     image_url: "https://i.ytimg.com/vi/gVr_cM_d55I/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=gVr_cM_d55I'
   },
+  '我知道你很難過': {
+    title: '我知道你很難過',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/bvILj-rfuSw/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=bvILj-rfuSw'
+  },
   '給我一個理由忘記': {
     title: '給我一個理由忘記',
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/o0qU9m4StrY/maxresdefault.jpg",
     item_url: 'https://youtu.be/F5FlN-NBGo8'
   },
+  '心有獨鍾': {
+    title: '心有獨鍾',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/FWX4WO39PwU/maxresdefault.jpg",
+    item_url: 'https://youtu.be/FWX4WO39PwU'
+  },
   '你就不要想起我': {
     title: '你就不要想起我',
     subtitle: '',
     image_url: "http://i.ytimg.com/vi/fzZbE53liXE/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=GsKbnsUN2RE'
+  },
+  '你愛永不變': {
+    title: '你愛永不變',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/7jfK_nZAI_0/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=7jfK_nZAI_0'
   },
   '傷心的人別聽慢歌': {
     title: '傷心的人別聽慢歌',
@@ -63,6 +93,12 @@ const fuck = {
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/lBNYpPmjH8M/hqdefault.jpg",
     item_url: 'https://youtu.be/lBNYpPmjH8M'
+  },
+  '我知道你很難過': {
+    title: '我知道你很難過',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/bvILj-rfuSw/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=bvILj-rfuSw'
   },
   '分手需要練習的': {
     title: '分手需要練習的',
@@ -87,6 +123,12 @@ const fuck = {
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/RrIh9_mn20U/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=_sQSXwdtxlY'
+  },
+  '傷痕': {
+    title: '傷痕',
+    subtitle: '',
+    image_url: "http://img.youtube.com/vi/dpUMa4zqQWo/sddefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=dpUMa4zqQWo'
   },
   '我們沒有在一起': {
     title: '我們沒有在一起',
@@ -121,6 +163,12 @@ const grace = {
     image_url: "https://i.ytimg.com/vi/nlWXsfjHeA8/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=nlWXsfjHeA8'
   },
+  '我們愛': {
+    title: '我們愛',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/EHgKFGpRo4c/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=fUijjKO3lYU'
+  },
   'Be Alright': {
     title: 'Be Alright',
     subtitle: '',
@@ -139,6 +187,12 @@ const grace = {
     image_url: "https://i.ytimg.com/vi/SpSiQRoTQU4/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=jZhQOvvV45w'
   },
+  '一生跟隨你': {
+    title: '一生跟隨你',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/hIzUVGU9qyM/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=hIzUVGU9qyM'
+  },
   'Good Time': {
     title: 'Good Time',
     subtitle: '',
@@ -150,6 +204,12 @@ const grace = {
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/RBi_XOdt-Ck/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=RBi_XOdt-Ck'
+  },
+  'Happy Day': {
+    title: 'Happy Day',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/hyMaeLX9ZUY/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=jKV5EDwE6zw'
   },
   '有點甜': {
     title: '有點甜',
@@ -171,6 +231,12 @@ const happy = {
     image_url: "https://i.ytimg.com/vi/enFGhIcD1d8/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=enFGhIcD1d8'
   },
+  'Happy Day': {
+    title: 'Happy Day',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/hyMaeLX9ZUY/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=jKV5EDwE6zw'
+  },
   'I Love You': {
     title: 'I Love You',
     subtitle: '',
@@ -182,6 +248,12 @@ const happy = {
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/Zq5OMCsM4p8/maxresdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=Zq5OMCsM4p8'
+  },
+  '深海': {
+    title: '深海',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/oqNcD-elvvA/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=oqNcD-elvvA'
   }
 };
 const depressed = {
@@ -191,17 +263,41 @@ const depressed = {
     image_url: "https://i.ytimg.com/vi/8JYdIxwUTg8/hqdefault.jpg",
     item_url: 'https://youtu.be/8JYdIxwUTg8'
   },
+  '魚兒': {
+    title: '魚兒',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/RYMbZ4GBbvg/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=vGNmgdImijU'
+  },
   '進入祢愛裡': {
     title: '進入祢愛裡',
     subtitle: '',
     image_url: "https://www.testifygod.com/wp-content/uploads/2016/10/%E9%80%B2%E5%85%A5%E7%A5%A2%E6%84%9B%E8%A3%A1.jpg",
     item_url: 'https://youtu.be/jFkDCnbn92A'
   },
+  '野子': {
+    title: '野子',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/4OleRGlrTnE/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=kOgUvM8AvqM'
+  },
   '溫柔': {
     title: '溫柔',
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/nWb_X3ZJQjw/hqdefault.jpg",
     item_url: 'https://www.youtube.com/watch?v=nWb_X3ZJQjw'
+  },
+  '我知道你很難過': {
+    title: '我知道你很難過',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/bvILj-rfuSw/maxresdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=bvILj-rfuSw'
+  },
+  '安靜': {
+    title: '安靜',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/-dQELbDA7wU/hqdefault.jpg",
+    item_url: 'https://youtu.be/-dQELbDA7wU'
   },
   '我不會飛': {
     title: '我不會飛',
