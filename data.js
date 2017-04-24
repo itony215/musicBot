@@ -145,11 +145,23 @@ const grace = {
     image_url: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqtJAouJ7Ys3qt2gfM_DH21_O18lWnKgbt47Ve0NtUhGUK2zh",
     item_url: 'https://www.youtube.com/watch?v=0Q444bzsehU'
   },
+  'Bunny In A Bunny Suit': {
+    title: 'Bunny In A Bunny Suit',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/S1qjDy7KKTw/hqdefault.jpg",
+    item_url: 'https://www.youtube.com/watch?v=4FPiTQHTU3A'
+  },
   '奇異恩典': {
     title: '奇異恩典',
     subtitle: '我的心情現在適合這首歌',
     image_url: "https://i.ytimg.com/vi/TZ25P0aRikw/hqdefault.jpg?custom=true&w=336&h=188&stc=true&jpg444=true&jpgq=90&sp=67&sat=0.2&sigh=H8BfzRvOzOuIiNgg6HVMXgpRdfg",
     item_url: 'https://www.youtube.com/watch?v=TZ25P0aRikw'
+  },
+  'Lalala': {
+    title: 'Lalala',
+    subtitle: '我的心情現在適合這首歌',
+    image_url: "https://i.ytimg.com/vi/ndNhHilnJXQ/hqdefault.jpg",
+    item_url: 'https://youtu.be/ndNhHilnJXQ'
   },
   '進入祢愛裡': {
     title: '進入祢愛裡',
@@ -216,6 +228,12 @@ const grace = {
     subtitle: '',
     image_url: "https://i.ytimg.com/vi/YJeR1lLatNw/0.jpg",
     item_url: 'https://www.youtube.com/watch?v=OtEJ6LGCW-U'
+  },
+  'Grace': {
+    title: 'Grace',
+    subtitle: '',
+    image_url: "https://i.ytimg.com/vi/51LGsPMKeAE/hqdefault.jpg",
+    item_url: 'https://youtu.be/51LGsPMKeAE'
   },
 };
 const happy = {
